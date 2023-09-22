@@ -1,9 +1,10 @@
 [submodule "kernel"]
     path = kernel
-    url = git@github.com:shiggyOS/kernel.git
+    url = https://github.com/shiggyOS/kernel
 [submodule "platform"]
     path = shiggy_platform
-    url = git@github.com:shiggyOS/platform.git
+    url = https://github.com/shiggyOS/platform
 [submodule "shig"]
     path = shig
-    url = git@github.com:shiggyOS/shig.git
+    url = https://github.com/shiggyOS/shig
+    
