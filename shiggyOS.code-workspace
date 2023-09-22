@@ -1,0 +1,21 @@
+{
+    "settings": {},
+    "folders": [
+        {
+            "path": ".",
+            "name": "shiggyOS (Root)"
+        },
+        {
+            "path": "kernel",
+            "name": "shiggyOS Kernel (bin)"
+        },
+        {
+            "path": "shiggy_platform",
+            "name": "shiggyOS Platform (lib)"
+        },
+        {
+            "path": "shig",
+            "name": "shig (bin)"
+        }
+    ]
+}
