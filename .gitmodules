@@ -7,3 +7,6 @@
 [submodule "shig"]
 	path = shig
 	url = git@github.com:shiggyOS/shig.git
+[submodule ".github"]
+	path = .github
+	url = git@github.com:shiggyOS/.github.git
